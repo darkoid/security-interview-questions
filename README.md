@@ -350,3 +350,5 @@ The risk assignment should always be re-evaluated as new technologies, processes
 101. What is social engineering? How common is it?
 
 102. How would you secure an office environment? What about a data center?
+
+Probably should add the answers too but I'm lazy lets see when I add them.
